@@ -5,4 +5,3 @@ Built to be an encryption/decryption application to communicate and read top-sec
 ## Built with:
 Technology: JavaScript ES6, HTML5, Node.js, Bootstrap, Mocha, Chai.
 
-![HomePage](
